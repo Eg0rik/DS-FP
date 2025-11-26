@@ -1,4 +1,4 @@
-
+### Решение задач из презентации 6
 ```haskell
 -- 1. Развернуть натуральное число в список всех чисел, меньших его
 numbersLessThan :: Int -> [Int]
@@ -65,3 +65,7 @@ main = do
     putStrLn "\n7. collatz 6:"
     print $ collatz 6
 ```
+
+### Результат в консоли:
+Запускал код в онлайн компиляторе - https://play.haskell.org/
+<img width="640" height="409" alt="image" src="https://github.com/user-attachments/assets/388634de-7d90-4aaa-8e91-0cc48f4899c4" />
