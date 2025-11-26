@@ -67,5 +67,5 @@ main = do
 ```
 
 ### Результат в консоли:
-Запускал код в онлайн компиляторе - https://play.haskell.org/
+Запустил код в онлайн компиляторе - https://play.haskell.org/
 <img width="640" height="409" alt="image" src="https://github.com/user-attachments/assets/388634de-7d90-4aaa-8e91-0cc48f4899c4" />
